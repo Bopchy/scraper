@@ -2,4 +2,4 @@ scrapenv/
 *.txt
 *.json
 *.pyc
-./idea/*
+.idea/*
